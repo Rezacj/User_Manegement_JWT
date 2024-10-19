@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|c:\\users\\reza\\source\\repos\\user_manegement_system\\user_manegement_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99DA266E-A4F3-41BA-80E8-2BF964410B43}|User_Manegement_System\\User_Manegement_System.csproj|solutionrelative:user_manegement_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Readme.md",
+              "RelativeDocumentMoniker": "User_Manegement_System\\Readme.md",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Readme.md",
+              "RelativeToolTip": "User_Manegement_System\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-18T21:00:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "User_Manegement_System\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "User_Manegement_System\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:49:38.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\appsettings.json",
+              "RelativeDocumentMoniker": "User_Manegement_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\appsettings.json",
+              "RelativeToolTip": "User_Manegement_System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T20:23:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Model\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "User_Manegement_System\\Model\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Model\\UserLoginDTO.cs",
+              "RelativeToolTip": "User_Manegement_System\\Model\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:20:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "User_Manegement_System\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "User_Manegement_System\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:14:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Program.cs",
+              "RelativeDocumentMoniker": "User_Manegement_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Reza\\source\\repos\\User_Manegement_System\\User_Manegement_System\\Program.cs",
+              "RelativeToolTip": "User_Manegement_System\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:13:01.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
